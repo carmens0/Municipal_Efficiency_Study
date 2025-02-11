@@ -34,9 +34,8 @@ Per misurare l'impatto della policy sono stati usati:
 - **Analisi di robustezza (plm)**: Alcuni risultati sono meno chiari, ma il doppio turno sembra avere un effetto positivo sull'efficienza amministrativa.
 
 ## 🛠️ Tecnologie e Strumenti
-- **Linguaggi**: R, Python
-- **Librerie principali**: dplyr, ggplot2, plm, lm
-- **Software**: RStudio, Excel, QGIS (per eventuali analisi spaziali)
+- **Linguaggi**: R
+- **Software**: RStudio, Excel
 
 ## 📜 Conclusioni
 Nonostante alcune incertezze nei risultati di robustezza, i dati suggeriscono che **l'introduzione del doppio turno ha migliorato l'efficienza amministrativa nei comuni con più di 15.000 abitanti**, riducendo gli impegni di spesa corrente.
@@ -45,7 +44,6 @@ Nonostante alcune incertezze nei risultati di robustezza, i dati suggeriscono ch
 ```
 ├── data/                      # Dataset originale e dataset pulito
 ├── scripts/                   # Codici R per l'analisi
-├── results/                   # Output delle analisi e grafici
 ├── README.md                  # Documentazione del progetto
 └── report/                    # Relazione finale e appendici
 ```
@@ -53,19 +51,19 @@ Nonostante alcune incertezze nei risultati di robustezza, i dati suggeriscono ch
 ## 🚀 Avvio del Progetto
 1. Clonare la repository:
    ```sh
-   git clone https://github.com/tuo-username/tuo-repo.git
+   git clone https://github.com/carmens0/Municipal_Efficiency_Study.git
    ```
-2. Aprire lo script in **RStudio** e installare le dipendenze necessarie:
-   ```r
-   install.packages(c("dplyr", "ggplot2", "plm", "lm"))
-   ```
+2. Aprire lo script in **RStudio** e installare le dipendenze necessarie
 3. Eseguire il codice per generare le analisi:
    ```r
-   source("scripts/analysis.R")
+   source("scripts/Senatore_Carmela_Pia.R")
    ```
 
 ## 📝 Autore
-**Carmela Pia Senatore**
+
+| Name                | Description                                                                                       |
+|---------------------|---------------------------------------------------------------------------------------------------|
+| **Carmela Pia Senatore** | Developer - [carmens0](https://github.com/carmens0) <br> Email - [carmensenatore58@gmail.com](mailto:carmensenatore58@gmail.com) <br> LinkedIn - [Carmela Pia Senatore](https://linkedin.com/in/carmela-pia-senatore-ba1797207) |
 
 ---
 🔍 Per maggiori dettagli, consultare il report completo in **report/**.
