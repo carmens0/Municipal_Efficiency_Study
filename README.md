@@ -1,6 +1,8 @@
 # Municipal_Efficiency_Study
 
 # Analisi dell'Impatto del Doppio Turno Elettorale nei Comuni Italiani
+<img src="./fig/portfolio-4.png" width="800" class="center">
+
 
 ## 📌 Descrizione del Progetto
 Questo progetto analizza l'effetto dell'introduzione del doppio turno elettorale nei comuni italiani con più di 15.000 abitanti. L'obiettivo è determinare se questa riforma ha portato a una riduzione o un aumento dell'efficienza amministrativa, confrontando i dati di un anno pre-policy (1994) e un anno post-policy (2003).
